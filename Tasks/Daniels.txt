@@ -1,0 +1,60 @@
+1 Loading screen white with loading animation
+2 Background: Frontpage 100vh img(mountains)
+3 Animation on Frontpage particles
+4 Logo is font, not img. When clicked gets us back to top of site
+5 Nav is menu icon(witdht<768px) otherwise Nav is Links
+6 Frontpage has title, content, buttons
+7 Content is 3 texts, typed in typewriter effect
+8 Buttons are links with font logos: facebook, twitter, linkedin. Be, youtube
+_________________________________________________________________________________________________________________________________________________________________________
+
+9 Content is made of 7 sections: About, Services, Portfolio, Testimonials, Statistics, Blog, Contact
+10 Content background color is white for odd gray for even
+11 Scrolled down of FrontPage Nav stays put, inverts color scheme
+
+
+12 About: image, title, description, 3 bars, 2 links
+13 Image is section left else is section right
+14 Bars are animated, have label, percentage, lot
+15 First link download site HTML Second sends us to form
+
+16 Services has title, is made of 6 items: Web design, Branding, Development, Creative desing, Fully responsive, Retina Ready
+17 Each item: Logo, title, description. Hover on logo invert color
+
+18 Portfolio has title, is made of filter and 6 item images
+19 Filter has 4 setting theme: all, brand, design, graphic
+20 Item has to be within filter setting theme, it has to have at least one
+21 when filter is clicked, shows relevant items
+22 When photo is hovered we are given two buttons, second gets us to slideshow of all items, image itself gets overlayed by white window
+
+23 Testimonials has title, 3 items and 3 buttons
+24 Item has photo of person, commentary of person, person name, person description  
+25 Items go in carousel, button beneath it are one item forward or one item back item can be pinched and moved left or right
+
+26 Statistics
+27 Statistics has no title, 4 items: Customers, Projects, Lines, Files
+28 Item has logo, number, description
+29 When number is in viewport there is animation that counts it up to its value
+
+30 Blog has title, 4 items and two buttons(left and right)
+31 Item has image, tag, title, link. Tag, title are links indeed
+32 Where image is hovered it is zoomed
+33 Items go in carousel, button beneath it are one item forward or one item back item can be pinched and moved left or right
+
+34 Contacts has title, 3 items, form and button
+35 Item has logo, title, description. Hover on logo invert color
+36 Form has three inputs: Name, Email, Message
+37 Message area can be pinched and resized, default is biggest
+38 Hover on button invert color
+_________________________________________________________________________________________________________________________________________________________________________
+
+39 Footer has description
+
+
+
+A All underlines have animation, left to right
+B There two background colors: FFF and F7F7F7
+c There are two fonts: Monsterrat, Poppins
+D For logo FA is used
+E There are 9 font colours, too many
+F At 990px width: About is 1 column, Services is 1, Portfolio is 2, Stats row becomes column,  Blog is 1, Contact items row becomes column
